@@ -1,0 +1,5 @@
+{
+  "name": "rc",
+  "description": "Nodes for RC module",
+  "provider": "core"
+}

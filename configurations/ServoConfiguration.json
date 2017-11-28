@@ -1,0 +1,19 @@
+{
+  "name": "ServoConfiguration",
+  "description": "Configuration for servo motors controller node",
+  "namespace": "@",
+  "fields": [
+    {
+      "name": "topic",
+      "description": "Name of the topic to subscribe to",
+      "type": "CHAR",
+      "size": 16
+    },
+    {
+      "name": "failsafe",
+      "description": "Failsafe values",
+      "type": "UINT16",
+      "size": 12
+    }
+  ]
+}

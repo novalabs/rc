@@ -1,0 +1,13 @@
+{
+  "name": "ReceiverConfiguration",
+  "description": "Configuration for RC receiver node",
+  "namespace": "@",
+  "fields": [
+    {
+      "name": "topic",
+      "description": "Name of the topic to publish to",
+      "type": "CHAR",
+      "size": 16
+    }
+  ]
+}
